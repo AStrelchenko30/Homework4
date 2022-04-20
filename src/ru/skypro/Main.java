@@ -37,7 +37,7 @@ public class Main {
         }
         //Задание 5
         int monthNumber = 12;
-        switch (monthNumber){
+        switch (monthNumber) {
             case 1:
             case 2:
             case 3:
